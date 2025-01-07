@@ -1,3 +1,6 @@
+*{
+    background-color:blanchedalmond;
+}
 h1{
     font-family: Copperplate, fantasy;
     font-size: 50px;
@@ -20,4 +23,10 @@ h2{
 p, li{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size:17px;
+}
+
+a{
+    background-color: #000000;
+    color:#00ffff;
+    font-size: 20px;
 }
