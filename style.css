@@ -30,3 +30,27 @@ a{
     color:#00ffff;
     font-size: 20px;
 }
+
+
+
+.recipes-pages-link-list{
+    padding:75px;
+    text-align: center;
+}
+
+li a{
+    font-size: 30px;
+    background-color:#708090;
+}
+
+.recipes-pages-link{
+    display: inline-block;
+    text-align: left;
+    background-color:#708090;
+}
+
+.home-link{
+    padding:40px;
+    background-color:#708090;
+    color: #FFF8DC;
+}
