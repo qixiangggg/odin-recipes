@@ -47,10 +47,13 @@ li a{
     display: inline-block;
     text-align: left;
     background-color:#708090;
+    padding:25px 150px;
+    margin-top:-35px;
 }
 
 .home-link{
-    padding:40px;
+    padding:40px 0;
     background-color:#708090;
     color: #FFF8DC;
 }
+
